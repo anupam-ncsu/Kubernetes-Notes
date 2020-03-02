@@ -156,5 +156,5 @@ $ kubectl rollout undo helloworld-deployment --to-revision=3
 
 -----
 ## Self-Evaluation:
--  why are deployment objects better than replication-sets or replication-objects
+-  why are deployment objects better than replication-sets or replication-controller
 -  
